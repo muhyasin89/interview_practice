@@ -1,2 +1,5 @@
 amazon interview code
 https://leetcode.com/discuss/interview-question/377996/amazon-interview-question
+
+
+https://www.geeksforgeeks.org/find-sum-of-aiaj-for-all-valid-pairs/
