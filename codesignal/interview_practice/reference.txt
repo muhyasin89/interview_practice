@@ -10,3 +10,27 @@ https://www.youtube.com/watch?v=P8Xa2BitN3I
 
 Big-O
 https://www.youtube.com/watch?v=D6xkbGLQesk
+
+https://www.tutorialspoint.com/python_data_structure/python_big_o_notation.htm
+
+
+how to pass google and uber interview
+https://www.youtube.com/watch?v=nmf-oObylnk
+
+
+https://www.youtube.com/watch?v=qTb1sZX74K0
+
+
+Devide and Conquer
+https://www.tutorialspoint.com/python_data_structure/python_divide_and_conquer.htm
+
+
+Python Recursion
+https://www.tutorialspoint.com/python_data_structure/python_recursion.htm
+
+Python backtracking
+https://www.tutorialspoint.com/python_data_structure/python_backtracking.htm
+
+
+Linear Search
+https://www.tutorialspoint.com/python_data_structure/python_searching_algorithms.htm
