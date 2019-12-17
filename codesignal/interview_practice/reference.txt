@@ -1,3 +1,12 @@
 5 Problem Solving Tips for Cracking Coding Interview Questions
-
 https://www.youtube.com/watch?v=GBuHSRDGZBY
+
+Top 10 Algoritma
+https://www.youtube.com/watch?v=r1MXwyiGi_U
+
+Dynamic Programming
+https://www.youtube.com/watch?v=vYquumk4nWw
+https://www.youtube.com/watch?v=P8Xa2BitN3I
+
+Big-O
+https://www.youtube.com/watch?v=D6xkbGLQesk
