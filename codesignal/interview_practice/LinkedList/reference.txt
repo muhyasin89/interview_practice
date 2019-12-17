@@ -1,0 +1,15 @@
+Reference:
+https://www.youtube.com/watch?v=BCcATUBliWU
+
+https://www.youtube.com/watch?v=oZuR2-AKkXE
+
+https://www.youtube.com/watch?v=4mm39dVLlZ0
+
+https://www.youtube.com/watch?v=Ga9iLtMKhKo
+
+compare two linked list
+https://stackoverflow.com/questions/54388326/how-do-i-compare-two-linked-lists-in-python-3-7
+
+
+reverse nodes in K Group
+http://rryyn.blogspot.com/2014/01/reversenodesinkgroup.html
