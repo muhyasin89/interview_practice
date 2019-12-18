@@ -29,3 +29,6 @@ http://rryyn.blogspot.com/2014/01/reversenodesinkgroup.html
 
 Big - o
 https://www.youtube.com/watch?v=v4cd1O4zkGw
+
+python linkedList
+https://stackabuse.com/python-linked-lists/
