@@ -20,6 +20,14 @@ https://www.youtube.com/watch?v=XB4MIexjvY0
 Graph Representation part 02 - Adjacency Matrix
 https://www.youtube.com/watch?v=9C2cpQZVRBA
 
-
 Algorithms: Solve 'Shortest Reach' Using BFS
 https://www.youtube.com/watch?v=0XgVhsMOcQM
+
+Breadth First Search grid shortest path | Graph Theory
+https://www.youtube.com/watch?v=KiCBXu4P-2Y
+
+Breadth First Search Algorithm | Graph Theory
+https://www.youtube.com/watch?v=oDqjPvD54Ss
+
+Depth First Search Algorithm | Graph Theory
+https://www.youtube.com/watch?v=7fujbpJ0LB4
