@@ -16,3 +16,10 @@ https://www.youtube.com/watch?v=uWL6FJhq5fM
 
 3.6 Dijkstra Algorithm - Single Source Shortest Path - Greedy Method
 https://www.youtube.com/watch?v=XB4MIexjvY0
+
+Graph Representation part 02 - Adjacency Matrix
+https://www.youtube.com/watch?v=9C2cpQZVRBA
+
+
+Algorithms: Solve 'Shortest Reach' Using BFS
+https://www.youtube.com/watch?v=0XgVhsMOcQM
