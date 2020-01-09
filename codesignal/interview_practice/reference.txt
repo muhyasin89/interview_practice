@@ -56,3 +56,6 @@ https://www.youtube.com/watch?v=XB4MIexjvY0
 
 8. NP-Hard and NP-Complete Problems
 https://www.youtube.com/watch?v=e2cF8a5aAhE
+
+8.1 NP-Hard Graph Problem - Clique Decision Problem
+https://www.youtube.com/watch?v=qZs767KQcvE

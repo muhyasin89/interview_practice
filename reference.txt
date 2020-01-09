@@ -1,0 +1,12 @@
+Hash Table
+https://www.youtube.com/watch?v=KyUTuwz_b7Q
+
+https://www.youtube.com/watch?v=mFY0J5W8Udk
+https://www.youtube.com/watch?v=shs0KM3wKv8
+
+
+Breath First Search
+https://www.youtube.com/watch?v=QRq6p9s8NVg
+
+DFS,BFS, GFS
+https://www.youtube.com/watch?v=zaBhtODEL0w
