@@ -1,13 +1,15 @@
 package hackerRankGroup;
-/**
- * Hello world!
- *
- */
+import hackerRankGroup.EndOfFile;
+import hackerRankGroup.HelloWorld;
+
+
 public class App 
 {
     public static void main( String[] args )
     {
         EndOfFile myObject = new EndOfFile();
-        HelloWorld helllo = new HelloWorld();
+        HelloWorld hello = new HelloWorld();
     }
 }
+
+
