@@ -12,7 +12,7 @@ public class Solution {
         // Write your code here
         Scanner firstNumber = new Scanner(System.in);
 
-        Int secondNumber=firstNumber.nextInt();
+        int secondNumber=firstNumber.nextInt();
 
         if((firstNumber*secondNumber)<0)
         {
