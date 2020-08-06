@@ -12,14 +12,17 @@ public class Solution {
         // Write your code here
         Scanner firstNumber = new Scanner(System.in);
 
+        int firstNum = firstNumber;
         int secondNumber=firstNumber.nextInt();
 
-        if((firstNumber*secondNumber)<0)
+        if((firstNum*secondNumber)<0)
         {
             throw new Exception("java.lang.Exception: Breadth and height must be positive");
         }else
         {
             System.out.println(secondNumber);
         }
+
+        firstNumber.close();
     }
 }
