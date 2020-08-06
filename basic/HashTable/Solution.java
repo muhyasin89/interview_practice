@@ -9,7 +9,7 @@ public class Solution {
         int right = array.length - 1;
 
         while(left <= right ){
-            int mid = (left + right) / 2;
+            //int mid = (left + right) / 2;
 
             // to prevent the overflow
             int mid = left + ((right - left) / 2);
@@ -21,7 +21,7 @@ public class Solution {
                 left =  mid + 1;
             }
         }
-        return false //if exit here means it not found
+        return false; //if exit here means it not found
     }
 
     public static boolean binarySearchRecursive(int[] array, int x, int left, int right){
@@ -29,7 +29,7 @@ public class Solution {
             return false;
         }
 
-        int mid = (left + right) /2;
+        //int mid = (left + right) /2;
 
         // to prevent the overflow
         int mid = left +((right - left) / 2);
@@ -44,8 +44,4 @@ public class Solution {
     }
 
    
-
-    public static boolean binarySearchRecursive(int[] array){
-        return binarySearchRecursive(array, x, 0, array.length -1);
-    }
 }

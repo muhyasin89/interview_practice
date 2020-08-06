@@ -40,7 +40,7 @@ public class Graph {
             return true;
         }
 
-        for( Node child: source.adjacent ){
+        for(Node child: source.adjacent ){
             if (hasPathDFS(source, destination, visited)){
                 return true;
             }
