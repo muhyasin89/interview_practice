@@ -7,3 +7,7 @@ def descending_order(num):
     return int(str1)
     
     
+
+#more efficient way
+def Descending_Order(num):
+    return int("".join(sorted(str(num), reverse=True)))

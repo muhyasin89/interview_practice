@@ -4,4 +4,8 @@ def count_bits(n):
     return result.count('1')
 
 
+#more efficient solution
+def countBits(n):
+    return bin(n).count("1")
+
 
