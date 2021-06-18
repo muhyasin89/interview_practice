@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 
 /junit:junit/
+
+
+.DS_Store
